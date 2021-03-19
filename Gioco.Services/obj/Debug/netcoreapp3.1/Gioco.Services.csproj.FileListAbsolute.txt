@@ -1,0 +1,12 @@
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\bin\Debug\netcoreapp3.1\Gioco.Services.deps.json
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\bin\Debug\netcoreapp3.1\Gioco.Services.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\bin\Debug\netcoreapp3.1\Gioco.Services.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\bin\Debug\netcoreapp3.1\Gioco.Core.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\bin\Debug\netcoreapp3.1\Gioco.Core.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.csproj.CopyComplete
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Services\obj\Debug\netcoreapp3.1\Gioco.Services.pdb

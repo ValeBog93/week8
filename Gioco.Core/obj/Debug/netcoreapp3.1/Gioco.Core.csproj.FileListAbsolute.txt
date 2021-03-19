@@ -1,0 +1,9 @@
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\bin\Debug\netcoreapp3.1\Gioco.Core.deps.json
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\bin\Debug\netcoreapp3.1\Gioco.Core.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\bin\Debug\netcoreapp3.1\Gioco.Core.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.Core\obj\Debug\netcoreapp3.1\Gioco.Core.pdb

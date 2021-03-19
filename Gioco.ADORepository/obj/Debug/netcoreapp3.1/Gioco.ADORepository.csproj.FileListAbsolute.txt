@@ -1,0 +1,14 @@
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.ADORepository.deps.json
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.ADORepository.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.ADORepository.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.Core.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.Core.pdb
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\obj\Debug\netcoreapp3.1\Gioco.ADORepository.csproj.CopyComplete
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.Services.dll
+C:\Users\faggi\OneDrive\Desktop\Gioco\Gioco.ADORepository\bin\Debug\netcoreapp3.1\Gioco.Services.pdb
